@@ -17,7 +17,7 @@ Reutilização: A função converter_celsius_para_fahrenheit poderia ser copiada
 🛠️ Como executar
 Certifique-se de ter o Python instalado.
 
-Salve o arquivo (sugestão de nome: conversor_termico.py).
+Salve o arquivo (conversor_termico.py).
 
 Execute o comando:
 
